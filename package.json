@@ -1,0 +1,20 @@
+{
+  "name": "vv-client-hunt",
+  "version": "1.0.0",
+  "description": "Client side app",
+  "main": "init-locations.js",
+  "scripts": {
+    "start":"index.html",
+    "test":"echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Vishalreddy114/vv-client-hunt.git"
+  },
+  "author": "Vishal Reddy Vennavaram",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Vishalreddy114/vv-client-hunt/issues"
+  },
+  "homepage": "https://github.com/Vishalreddy114/vv-client-hunt#readme"
+}
