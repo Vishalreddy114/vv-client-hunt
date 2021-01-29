@@ -28,5 +28,6 @@ HTML: Semantic tags / geolocation / speech synthesis
 
 
 [source code](https://github.com/Vishalreddy114/vv-client-hunt)
-
+[Reference](https://github.com/Rajeshwari-Rudra/rr-client-hunt)
 [Running app](https://vishalreddy114.github.io/vv-client-hunt/)
+[Speech Synthesis](https://developer.mozilla.org/en-US/docs/Web/API/SpeechSynthesis)
