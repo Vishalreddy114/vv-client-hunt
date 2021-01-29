@@ -2,7 +2,15 @@
  
   article {
     text-align: center;
-    color:blue
+    color:cadetblue;
     
+  }
+
+  #id{
+    color:cadetblue;
+  }
+
+  #repo{
+    color :cadetblue;
   }
   
